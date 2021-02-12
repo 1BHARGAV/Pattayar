@@ -1,5 +1,5 @@
 .carousel-item{
-  height: 500px;
+  height: 400px;
 }
 
 .position{
@@ -68,4 +68,12 @@ section.video p.video-data {
 
 .red-text{
   color: red;
+}
+
+.embed-responsive-item{
+  height: 100%;
+}
+
+.international-roaming-main{
+  background-color: #a3563c;
 }
